@@ -50,13 +50,38 @@ I'm a **Product Designer** with **2+ years of experience** working on SaaS produ
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DRockoda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRockoda&layout=compact&langs_count=8&theme=tokyonight"/>
+  <!-- GitHub Stats Cards -->
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=DRockoda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=39D353"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRockoda&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39D353"/>
   
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=DRockoda&theme=tokyonight&border_radius=10" alt="mystreak"/>
+  
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.demolab.com?user=DRockoda&theme=tokyonight&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&sideNums=39D353&currStreakNum=39D353&sideLabels=39D353&dates=39D353" alt="GitHub Streak" />
+  
+</div>
+
+<div align="center">
+  
+  <!-- GitHub Trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=DRockoda&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophy" />
+  
+</div>
+
+<div align="center">
+  
+  <!-- Additional Stats -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DRockoda&theme=tokyo-night&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&hide_border=true" alt="Contribution Graph" width="100%"/>
+  
+</div>
+
+<div align="center">
+  
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=DRockoda&label=Profile%20Views&color=39D353&style=flat-square" alt="Profile Views" />
+  
 </div>
 
 ---
@@ -93,14 +118,6 @@ Designed a cross-channel wayfinding system with kiosks, web app, and AR navigati
   <a href="https://github.com/DRockoda/Movie-recommendator">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DRockoda&repo=Movie-recommendator&theme=tokyonight" />
   </a>
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DRockoda&theme=tokyo-night&bg_color=0d1117&color=39d353&line=39d353&point=ffffff" alt="Contribution Graph" />
 </div>
 
 ---
