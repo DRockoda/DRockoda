@@ -61,7 +61,7 @@ I'm a **Product Designer** with **3+ years of experience** working on SaaS produ
 <div align="center">
   
   <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.demolab.com?user=DRockoda&theme=tokyonight&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&sideNums=39D353&currStreakNum=39D353&sideLabels=39D353&dates=39D353" alt="GitHub Streak" height="200"/>
+  <img src="https://github-readme-streak-stats.demolab.com?user=DRockoda&theme=tokyonight" alt="GitHub Streak" height="200"/>
   
 </div>
 
@@ -70,7 +70,7 @@ I'm a **Product Designer** with **3+ years of experience** working on SaaS produ
 <div align="center">
   
   <!-- GitHub Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=DRockoda&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DRockoda&theme=tokyonight" alt="GitHub Trophy" />
   
 </div>
 
