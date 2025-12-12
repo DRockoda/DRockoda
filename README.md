@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-I'm a **Product Designer** with **2+ years of experience** working on SaaS products, possessing advanced skills in **Research**, **Data Analysis**, and **Rapid Prototyping**. I specialize in transforming complex data into intuitive, user-friendly interfaces enhanced with AI capabilities.
+I'm a **Product Designer** with **3+ years of experience** working on SaaS products, possessing advanced skills in **Research**, **Data Analysis**, and **Rapid Prototyping**. I specialize in transforming complex data into intuitive, user-friendly interfaces enhanced with AI capabilities.
 
 ### 💼 What I Do
 - 🔍 **UX Research** & User-Centered Design
@@ -51,17 +51,21 @@ I'm a **Product Designer** with **2+ years of experience** working on SaaS produ
 <div align="center">
   
   <!-- GitHub Stats Cards -->
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=DRockoda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=39D353"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRockoda&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39D353"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=DRockoda&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=39D353" alt="GitHub Stats"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRockoda&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39D353" alt="Top Languages"/>
   
 </div>
+
+<br>
 
 <div align="center">
   
   <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.demolab.com?user=DRockoda&theme=tokyonight&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&sideNums=39D353&currStreakNum=39D353&sideLabels=39D353&dates=39D353" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.demolab.com?user=DRockoda&theme=tokyonight&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&sideNums=39D353&currStreakNum=39D353&sideLabels=39D353&dates=39D353" alt="GitHub Streak" height="200"/>
   
 </div>
+
+<br>
 
 <div align="center">
   
@@ -70,12 +74,16 @@ I'm a **Product Designer** with **2+ years of experience** working on SaaS produ
   
 </div>
 
+<br>
+
 <div align="center">
   
-  <!-- Additional Stats -->
+  <!-- Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DRockoda&theme=tokyo-night&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&hide_border=true" alt="Contribution Graph" width="100%"/>
   
 </div>
+
+<br>
 
 <div align="center">
   
@@ -83,20 +91,6 @@ I'm a **Product Designer** with **2+ years of experience** working on SaaS produ
   <img src="https://komarev.com/ghpvc/?username=DRockoda&label=Profile%20Views&color=39D353&style=flat-square" alt="Profile Views" />
   
 </div>
-
----
-
-## ✨ Featured Projects
-
-### 🤖 AI Quiz Maker
-**SaaS | Education | UX | AI**
-
-Led UX design for AI integration in QuizMaker, enabling users to generate quizzes quickly, confidently, and intuitively without disrupting existing workflows.
-
-### 🗺️ AR Navigation System
-**AR Navigation | Kiosk | Web App**
-
-Designed a cross-channel wayfinding system with kiosks, web app, and AR navigation so locals and visitors can navigate Indianapolis' downtown confidently.
 
 ---
 
