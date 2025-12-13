@@ -60,9 +60,11 @@ I'm a **Product Designer** with **3+ years of experience** working on SaaS produ
 
 <div align="center">
   
-  ### 🎧 Now Playing on Spotify
+  ### 🎧 Vibing To
   
-  [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID)
+  <a href="https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT">
+    <img src="https://img.shields.io/badge/🎵%20Blinding%20Lights-The%20Weeknd-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Song"/>
+  </a>
   
 </div>
 
