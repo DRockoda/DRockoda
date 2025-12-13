@@ -144,16 +144,6 @@ I'm a **Product Designer** with **3+ years of experience** working on SaaS produ
   
   <br><br>
   
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:D4918A,100:0d1117&height=2&section=footer"/>
-  
-  <br>
-  
-  ```diff
-  + 🐺 Building something Magical!!!
-  ```
-  
-  <br>
-  
   <img src="https://img.shields.io/badge/Made_with-❤️-D4918A?style=flat-square&labelColor=0d1117"/>
   <img src="https://img.shields.io/badge/Powered_by-☕_&_🎵-E8C4B8?style=flat-square&labelColor=0d1117"/>
   
