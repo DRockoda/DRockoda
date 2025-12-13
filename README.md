@@ -92,6 +92,55 @@ I'm a **Product Designer** with **3+ years of experience** working on SaaS produ
   
 </div>
 
+<br>
+
+<div align="center">
+  
+  <!-- Contribution Snake -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DRockoda/DRockoda/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DRockoda/DRockoda/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DRockoda/DRockoda/output/github-contribution-grid-snake.svg" />
+  </picture>
+  
+</div>
+
+---
+
+## ✨ Featured Projects
+
+<div align="center">
+  
+### 🤖 AI Quiz Maker
+<div style="display: flex; align-items: center; justify-content: center; gap: 10px; margin: 20px 0;">
+  <img src="https://img.shields.io/badge/SaaS-FF6B6B?style=for-the-badge&logo=cloudflare&logoColor=white" alt="SaaS"/>
+  <img src="https://img.shields.io/badge/Education-4ECDC4?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Education"/>
+  <img src="https://img.shields.io/badge/UX-F7B731?style=for-the-badge&logo=figma&logoColor=white" alt="UX"/>
+  <img src="https://img.shields.io/badge/AI-00C9FF?style=for-the-badge&logo=openai&logoColor=white" alt="AI"/>
+</div>
+
+**Led UX design for AI integration in QuizMaker**, enabling users to generate quizzes quickly, confidently, and intuitively without disrupting existing workflows.
+
+*Transforming content creation through intelligent automation*
+
+</div>
+
+<div align="center" style="margin: 40px 0;">
+  
+### 🗺️ AR Navigation System
+<div style="display: flex; align-items: center; justify-content: center; gap: 10px; margin: 20px 0;">
+  <img src="https://img.shields.io/badge/AR-8E44AD?style=for-the-badge&logo=unity&logoColor=white" alt="AR"/>
+  <img src="https://img.shields.io/badge/Navigation-3498DB?style=for-the-badge&logo=map-marked-alt&logoColor=white" alt="Navigation"/>
+  <img src="https://img.shields.io/badge/Kiosk-E74C3C?style=for-the-badge&logo=desktop&logoColor=white" alt="Kiosk"/>
+  <img src="https://img.shields.io/badge/Web%20App-2ECC71?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Web App"/>
+</div>
+
+**Designed a cross-channel wayfinding system** with kiosks, web app, and AR navigation so locals and visitors can navigate Indianapolis' downtown confidently.
+
+*Bridging physical and digital experiences for seamless navigation*
+
+</div>
+
 ---
 
 ## 🔥 Popular Repositories
@@ -121,6 +170,12 @@ I'm a **Product Designer** with **3+ years of experience** working on SaaS produ
 <div align="center">
   <a href="https://www.abhaysinghrana.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.abhaysinghrana.com/resume" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume"/>
+  </a>
+  <a href="mailto:abhay_singh_rana@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/abhay-singh-rana/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
