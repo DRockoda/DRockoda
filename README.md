@@ -171,7 +171,7 @@ I'm a **Product Designer** with **3+ years of experience** working on SaaS produ
   <a href="https://www.abhaysinghrana.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://www.abhaysinghrana.com/resume" target="_blank">
+  <a href="https://drive.google.com/file/d/1a7AHYzkMW3xVwy5TqdK4_NrgwsIWwypr/view" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume"/>
   </a>
   <a href="mailto:abhay_singh_rana@outlook.com" target="_blank">
