@@ -63,7 +63,7 @@ I'm a **Product Designer** with **3+ years of experience** working on SaaS produ
   ### 🎧 Vibing To
   
   <a href="https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT">
-    <img src="https://img.shields.io/badge/🎵%20Blinding%20Lights-The%20Weeknd-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Song"/>
+    <img src="./assets/spotify-playing.svg" alt="Now Playing" width="400"/>
   </a>
   
 </div>
