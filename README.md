@@ -95,22 +95,12 @@ I'm a **Product Designer** with **3+ years of experience** working on SaaS produ
 
 ## 🔥 Popular Repositories
 
-<div align="center">
-  
-  <a href="https://github.com/DRockoda/Face-recognition">
-    <img src="https://img.shields.io/badge/Face--recognition-Python-D4918A?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" alt="Face-recognition"/>
-  </a>
-  <a href="https://github.com/DRockoda/NCAA-Mens-basketball-Div-1-data-">
-    <img src="https://img.shields.io/badge/NCAA--Basketball--Data-TypeScript-D4918A?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1117" alt="NCAA Data"/>
-  </a>
-  <a href="https://github.com/DRockoda/Weather-app-vanillajs">
-    <img src="https://img.shields.io/badge/Weather--App-JavaScript-D4918A?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0d1117" alt="Weather App"/>
-  </a>
-  <a href="https://github.com/yugankk7/image-caption-generator">
-    <img src="https://img.shields.io/badge/Image--Caption--Generator-Python-D4918A?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" alt="Image Caption Generator"/>
-  </a>
-  
-</div>
+| Project | Description | Tech Stack |
+|:--------|:------------|:-----------|
+| [**Face Recognition**](https://github.com/DRockoda/Face-recognition) | Real-time face detection and recognition system | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |
+| [**NCAA Basketball Data**](https://github.com/DRockoda/NCAA-Mens-basketball-Div-1-data-) | NCAA Men's Division 1 basketball data analysis | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) |
+| [**Weather App**](https://github.com/DRockoda/Weather-app-vanillajs) | Weather application with live forecasts | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| [**Image Caption Generator**](https://github.com/yugankk7/image-caption-generator) | AI-powered image captioning using deep learning | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
 
 ---
 
