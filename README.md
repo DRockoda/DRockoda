@@ -1,26 +1,26 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:0d1117&height=150&section=header&text=&fontSize=0&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:D4918A,100:0d1117&height=120&section=header&animation=fadeIn"/>
 </div>
 
 <div align="center">
   
-  # Hey there! <img src="https://raw.githubusercontent.com/MartinHeinworlds/MartinHeinz/master/wave.gif" width="30px" height="30px">
+  # Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=I'm+Abhay+Singh+Rana;Product+Designer+%7C+AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=D4918A&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=I'm+Abhay+Singh+Rana;Product+Designer+%7C+AI+Enthusiast" alt="Typing SVG" />
   
   <br>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=18&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&width=600&lines=Turning+data+analytics+into+delightful+products;Supercharging+experiences+with+AI+%E2%9C%A8;Building+something+magical+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=18&duration=2000&pause=500&color=E8C4B8&center=true&vCenter=true&width=600&lines=Turning+data+analytics+into+delightful+products;Supercharging+experiences+with+AI+%E2%9C%A8;Building+something+magical+%F0%9F%9A%80" alt="Typing SVG" />
   
 </div>
 
 <div align="center">
   <br>
   <a href="https://www.abhaysinghrana.com/">
-    <img src="https://img.shields.io/badge/🐺_Product_Designer-3+_Years-39D353?style=for-the-badge&labelColor=0d1117"/>
+    <img src="https://img.shields.io/badge/🐺_Product_Designer-3+_Years-D4918A?style=for-the-badge&labelColor=0d1117"/>
   </a>
   <a href="https://www.linkedin.com/in/abhay-singh-rana/">
-    <img src="https://img.shields.io/badge/Open_to-Collaborate-58A6FF?style=for-the-badge&labelColor=0d1117"/>
+    <img src="https://img.shields.io/badge/Open_to-Collaborate-E8C4B8?style=for-the-badge&labelColor=0d1117"/>
   </a>
   <br><br>
 </div>
@@ -65,8 +65,8 @@ I'm a **Product Designer** with **3+ years of experience** working on SaaS produ
 <div align="center">
   
   <!-- GitHub Stats Cards -->
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=DRockoda&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=39D353" alt="GitHub Stats"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRockoda&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39D353" alt="Top Languages"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=DRockoda&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=D4918A&icon_color=D4918A&text_color=E8C4B8" alt="GitHub Stats"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRockoda&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=D4918A&text_color=E8C4B8" alt="Top Languages"/>
   
 </div>
 
@@ -87,7 +87,7 @@ I'm a **Product Designer** with **3+ years of experience** working on SaaS produ
 <div align="center">
   
   <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=DRockoda&label=Profile%20Views&color=39D353&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=DRockoda&label=Profile%20Views&color=D4918A&style=flat-square" alt="Profile Views" />
   
 </div>
 
@@ -140,11 +140,11 @@ I'm a **Product Designer** with **3+ years of experience** working on SaaS produ
 <div align="center">
   <br>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Let's+build+something+magical+%E2%9C%A8;Open+for+collaborations+%F0%9F%A4%9D;Feel+free+to+reach+out+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=D4918A&center=true&vCenter=true&width=500&lines=Let's+build+something+magical+%E2%9C%A8;Open+for+collaborations+%F0%9F%A4%9D;Feel+free+to+reach+out+%F0%9F%91%8B" alt="Typing SVG" />
   
   <br><br>
   
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=2&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:D4918A,100:0d1117&height=2&section=footer"/>
   
   <br>
   
@@ -154,12 +154,12 @@ I'm a **Product Designer** with **3+ years of experience** working on SaaS produ
   
   <br>
   
-  <img src="https://img.shields.io/badge/Made_with-❤️-39D353?style=flat-square&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/Powered_by-☕_&_🎵-58A6FF?style=flat-square&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Made_with-❤️-D4918A?style=flat-square&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Powered_by-☕_&_🎵-E8C4B8?style=flat-square&labelColor=0d1117"/>
   
   <br><br>
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:39D353,100:0d1117&height=100&section=footer&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:D4918A,100:0d1117&height=100&section=footer&animation=twinkling"/>
   
 </div>
 
