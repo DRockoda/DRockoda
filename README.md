@@ -60,10 +60,9 @@ I'm a **Product Designer** with **3+ years of experience** working on SaaS produ
 
 <div align="center">
   
-  <!-- GitHub Streak Stats -->
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=DRockoda&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="200"/>
-  </a>
+  ### 🎧 Now Playing on Spotify
+  
+  [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID)
   
 </div>
 
