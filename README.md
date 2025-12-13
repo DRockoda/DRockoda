@@ -93,23 +93,23 @@ I'm a **Product Designer** with **3+ years of experience** working on SaaS produ
 
 ---
 
-## 🔥 Popular Repositories
+## 📌 Pinned Repositories
 
 <div align="center">
-  <a href="https://github.com/DRockoda/Social-distancing-detector">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DRockoda&repo=Social-distancing-detector&theme=tokyonight" />
-  </a>
   <a href="https://github.com/DRockoda/Face-recognition">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DRockoda&repo=Face-recognition&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DRockoda&repo=Face-recognition&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=D4918A&icon_color=D4918A" />
+  </a>
+  <a href="https://github.com/DRockoda/NCAA-Mens-basketball-Div-1-data-">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DRockoda&repo=NCAA-Mens-basketball-Div-1-data-&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=D4918A&icon_color=D4918A" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/DRockoda/node-weather-website">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DRockoda&repo=node-weather-website&theme=tokyonight" />
+  <a href="https://github.com/DRockoda/Weather-app-vanillajs">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DRockoda&repo=Weather-app-vanillajs&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=D4918A&icon_color=D4918A" />
   </a>
-  <a href="https://github.com/DRockoda/Movie-recommendator">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DRockoda&repo=Movie-recommendator&theme=tokyonight" />
+  <a href="https://github.com/yugankk7/image-caption-generator">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yugankk7&repo=image-caption-generator&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=D4918A&icon_color=D4918A" />
   </a>
 </div>
 
