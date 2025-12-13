@@ -71,74 +71,9 @@ I'm a **Product Designer** with **3+ years of experience** working on SaaS produ
 
 <div align="center">
   
-  <!-- GitHub Trophy -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=DRockoda&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophy" />
-  </a>
-  
-</div>
-
-<br>
-
-<div align="center">
-  
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DRockoda&theme=tokyo-night&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&hide_border=true" alt="Contribution Graph" width="100%"/>
-  
-</div>
-
-<br>
-
-<div align="center">
-  
   <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=DRockoda&label=Profile%20Views&color=39D353&style=flat-square" alt="Profile Views" />
   
-</div>
-
-<br>
-
-<div align="center">
-  
-  <!-- Contribution Snake -->
-  <img src="https://raw.githubusercontent.com/DRockoda/DRockoda/output/github-contribution-grid-snake.svg" alt="snake" />
-  
-</div>
-
----
-
-## ✨ Featured Projects
-
-<div align="center">
-  
-### 🤖 AI Quiz Maker
-<div style="display: flex; align-items: center; justify-content: center; gap: 10px; margin: 20px 0;">
-  <img src="https://img.shields.io/badge/SaaS-FF6B6B?style=for-the-badge&logo=cloudflare&logoColor=white" alt="SaaS"/>
-  <img src="https://img.shields.io/badge/Education-4ECDC4?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Education"/>
-  <img src="https://img.shields.io/badge/UX-F7B731?style=for-the-badge&logo=figma&logoColor=white" alt="UX"/>
-  <img src="https://img.shields.io/badge/AI-00C9FF?style=for-the-badge&logo=openai&logoColor=white" alt="AI"/>
-</div>
-
-**Led UX design for AI integration in QuizMaker**, enabling users to generate quizzes quickly, confidently, and intuitively without disrupting existing workflows.
-
-*Transforming content creation through intelligent automation*
-
-</div>
-
-<div align="center" style="margin: 40px 0;">
-  
-### 🗺️ AR Navigation System
-<div style="display: flex; align-items: center; justify-content: center; gap: 10px; margin: 20px 0;">
-  <img src="https://img.shields.io/badge/AR-8E44AD?style=for-the-badge&logo=unity&logoColor=white" alt="AR"/>
-  <img src="https://img.shields.io/badge/Navigation-3498DB?style=for-the-badge&logo=map-marked-alt&logoColor=white" alt="Navigation"/>
-  <img src="https://img.shields.io/badge/Kiosk-E74C3C?style=for-the-badge&logo=desktop&logoColor=white" alt="Kiosk"/>
-  <img src="https://img.shields.io/badge/Web%20App-2ECC71?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Web App"/>
-</div>
-
-**Designed a cross-channel wayfinding system** with kiosks, web app, and AR navigation so locals and visitors can navigate Indianapolis' downtown confidently.
-
-*Bridging physical and digital experiences for seamless navigation*
-
 </div>
 
 ---
@@ -161,18 +96,6 @@ I'm a **Product Designer** with **3+ years of experience** working on SaaS produ
   <a href="https://github.com/DRockoda/Movie-recommendator">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DRockoda&repo=Movie-recommendator&theme=tokyonight" />
   </a>
-</div>
-
-
-
-<div align="center">
-  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-</picture>
-
 </div>
 
 ---
