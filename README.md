@@ -93,24 +93,23 @@ I'm a **Product Designer** with **3+ years of experience** working on SaaS produ
 
 ---
 
-## 📌 Pinned Repositories
+## 🔥 Popular Repositories
 
 <div align="center">
+  
   <a href="https://github.com/DRockoda/Face-recognition">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DRockoda&repo=Face-recognition&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=D4918A&icon_color=D4918A" />
+    <img src="https://img.shields.io/badge/Face--recognition-Python-D4918A?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" alt="Face-recognition"/>
   </a>
   <a href="https://github.com/DRockoda/NCAA-Mens-basketball-Div-1-data-">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DRockoda&repo=NCAA-Mens-basketball-Div-1-data-&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=D4918A&icon_color=D4918A" />
+    <img src="https://img.shields.io/badge/NCAA--Basketball--Data-TypeScript-D4918A?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1117" alt="NCAA Data"/>
   </a>
-</div>
-
-<div align="center">
   <a href="https://github.com/DRockoda/Weather-app-vanillajs">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DRockoda&repo=Weather-app-vanillajs&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=D4918A&icon_color=D4918A" />
+    <img src="https://img.shields.io/badge/Weather--App-JavaScript-D4918A?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0d1117" alt="Weather App"/>
   </a>
   <a href="https://github.com/yugankk7/image-caption-generator">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yugankk7&repo=image-caption-generator&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=D4918A&icon_color=D4918A" />
+    <img src="https://img.shields.io/badge/Image--Caption--Generator-Python-D4918A?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" alt="Image Caption Generator"/>
   </a>
+  
 </div>
 
 ---
