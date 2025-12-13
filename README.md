@@ -61,7 +61,9 @@ I'm a **Product Designer** with **3+ years of experience** working on SaaS produ
 <div align="center">
   
   <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.demolab.com?user=DRockoda&theme=tokyonight" alt="GitHub Streak" height="200"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=DRockoda&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="200"/>
+  </a>
   
 </div>
 
@@ -70,7 +72,9 @@ I'm a **Product Designer** with **3+ years of experience** working on SaaS produ
 <div align="center">
   
   <!-- GitHub Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=DRockoda&theme=tokyonight" alt="GitHub Trophy" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=DRockoda&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophy" />
+  </a>
   
 </div>
 
@@ -157,6 +161,18 @@ I'm a **Product Designer** with **3+ years of experience** working on SaaS produ
   <a href="https://github.com/DRockoda/Movie-recommendator">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DRockoda&repo=Movie-recommendator&theme=tokyonight" />
   </a>
+</div>
+
+
+
+<div align="center">
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+</picture>
+
 </div>
 
 ---
