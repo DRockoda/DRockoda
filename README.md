@@ -1,72 +1,49 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:0d1117&height=150&section=header&text=&fontSize=0&animation=fadeIn"/>
+  
+  <br>
+  
+  ## Hey there, nice to see you! 👋
+  
+  <br>
+  
 </div>
 
 <div align="center">
   
-  # Hey there! <img src="https://raw.githubusercontent.com/MartinHeinworlds/MartinHeinz/master/wave.gif" width="30px" height="30px">
+  # Abhay is a *Product Designer*
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=I'm+Abhay+Singh+Rana;Product+Designer+%7C+AI+Enthusiast" alt="Typing SVG" />
+  ### An expert in turning *data analytics* into delightful products and *supercharging them with AI*
   
   <br>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=18&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&width=600&lines=Turning+data+analytics+into+delightful+products;Supercharging+experiences+with+AI+%E2%9C%A8;Building+something+magical+%F0%9F%9A%80" alt="Typing SVG" />
-  
-</div>
-
-<div align="center">
-  <br>
   <a href="https://www.abhaysinghrana.com/">
-    <img src="https://img.shields.io/badge/🐺_Product_Designer-3+_Years-39D353?style=for-the-badge&labelColor=0d1117"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/abhay-singh-rana/">
-    <img src="https://img.shields.io/badge/Open_to-Collaborate-58A6FF?style=for-the-badge&labelColor=0d1117"/>
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="mailto:abhay_singh_rana@outlook.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1a7AHYzkMW3xVwy5TqdK4_NrgwsIWwypr/view">
+    <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume"/>
+  </a>
+  
   <br><br>
+  
+  <img src="https://komarev.com/ghpvc/?username=DRockoda&label=visitors&color=000000&style=flat" alt="Profile Views" />
+  
 </div>
 
----
-
-## 🚀 About Me
-
-I'm a **Product Designer** with **3+ years of experience** working on SaaS products, possessing advanced skills in **Research**, **Data Analysis**, and **Rapid Prototyping**. I specialize in transforming complex data into intuitive, user-friendly interfaces enhanced with AI capabilities.
-
-### 💼 What I Do
-- 🔍 **UX Research** & User-Centered Design
-- 📊 **Data Analysis** to drive design decisions
-- ⚡ **Rapid Prototyping** for quick iterations
-- 🤖 **AI Integration** into product experiences
-- 🎨 **Visual Design** for modern SaaS products
+<br>
 
 ---
 
-## 🛠️ Tech Stack & Tools
-
-### Design & Prototyping
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
-### Development & AI
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
-
----
-
-## 📊 GitHub Stats
+<br>
 
 <div align="center">
   
-  <!-- GitHub Stats Cards -->
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=DRockoda&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=39D353" alt="GitHub Stats"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRockoda&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39D353" alt="Top Languages"/>
+  ## What I Do
   
 </div>
 
@@ -74,92 +51,146 @@ I'm a **Product Designer** with **3+ years of experience** working on SaaS produ
 
 <div align="center">
   
-  ### 🎧 Vibing To
+  `UX Research` · `Data Analysis` · `Rapid Prototyping` · `AI Integration` · `Visual Design`
+  
+</div>
+
+<br>
+
+I'm a **Product Designer** with **3+ years of experience** working on SaaS products. I specialize in transforming complex data into intuitive, user-friendly interfaces enhanced with AI capabilities.
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+  
+  ## Tools & Technologies
+  
+</div>
+
+<br>
+
+<div align="center">
+
+**Design**
+
+![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-000000?style=flat-square&logo=Adobe%20XD&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-000000?style=flat-square&logo=framer&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-000000?style=flat-square&logo=Adobe%20Photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-000000?style=flat-square&logo=adobe%20illustrator&logoColor=white)
+
+**Development & AI**
+
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=flat-square&logo=openai&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+  
+  ## GitHub Stats
+  
+</div>
+
+<br>
+
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DRockoda&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_title=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRockoda&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_title=true" alt="Top Languages"/>
+  
+</div>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+  
+  ## 🎧 Vibing To
   
   <a href="https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT">
-    <img src="./assets/spotify-playing.svg" alt="Now Playing" width="400"/>
+    <img src="./assets/spotify-playing.svg" alt="Now Playing" width="350"/>
   </a>
   
 </div>
 
 <br>
 
+---
+
+<br>
+
 <div align="center">
   
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=DRockoda&label=Profile%20Views&color=39D353&style=flat-square" alt="Profile Views" />
+  ## Side Projects
   
 </div>
 
----
-
-## 🔥 Popular Repositories
+<br>
 
 <div align="center">
   <a href="https://github.com/DRockoda/Social-distancing-detector">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DRockoda&repo=Social-distancing-detector&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DRockoda&repo=Social-distancing-detector&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
   </a>
   <a href="https://github.com/DRockoda/Face-recognition">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DRockoda&repo=Face-recognition&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DRockoda&repo=Face-recognition&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
   </a>
 </div>
+
+<br>
 
 <div align="center">
   <a href="https://github.com/DRockoda/node-weather-website">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DRockoda&repo=node-weather-website&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DRockoda&repo=node-weather-website&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
   </a>
   <a href="https://github.com/DRockoda/Movie-recommendator">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DRockoda&repo=Movie-recommendator&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DRockoda&repo=Movie-recommendator&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
   </a>
 </div>
+
+<br>
 
 ---
 
-## 🌟 Let's Connect
+<br>
 
 <div align="center">
-  <a href="https://www.abhaysinghrana.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://drive.google.com/file/d/1a7AHYzkMW3xVwy5TqdK4_NrgwsIWwypr/view" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume"/>
-  </a>
-  <a href="mailto:abhay_singh_rana@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/abhay-singh-rana/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/DRockoda" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</div>
-
----
-
-<div align="center">
+  
+  ## Thanks for scrolling all the way
+  
   <br>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Let's+build+something+magical+%E2%9C%A8;Open+for+collaborations+%F0%9F%A4%9D;Feel+free+to+reach+out+%F0%9F%91%8B" alt="Typing SVG" />
+  ### Ready to craft something exceptional together?
+  
+  <br>
+  
+  <a href="https://www.abhaysinghrana.com/">
+    <img src="https://img.shields.io/badge/Let's_Connect-000000?style=for-the-badge" alt="Let's Connect"/>
+  </a>
   
   <br><br>
   
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=2&section=footer"/>
+  ---
   
   <br>
   
-  ```diff
-  + 🐺 Building something Magical!!!
-  ```
+  *© 2025 Designed & Developed by Abhay Singh Rana*
   
   <br>
-  
-  <img src="https://img.shields.io/badge/Made_with-❤️-39D353?style=flat-square&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/Powered_by-☕_&_🎵-58A6FF?style=flat-square&labelColor=0d1117"/>
-  
-  <br><br>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:39D353,100:0d1117&height=100&section=footer&animation=twinkling"/>
   
 </div>
-
